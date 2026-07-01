@@ -1,6 +1,7 @@
 ﻿# Airline Industry Performance Dashboard
 
-**Excel · Power Query · Power Pivot · DAX** — an interactive analysis of nine US airlines across FY2020–2024, spanning the COVID-19 collapse in air travel and the multi-year recovery that followed.
+**Excel · Power Query · Power Pivot · DAX** 
+An interactive analysis of nine US airlines across FY2020–2024, spanning the COVID-19 collapse in air travel and the multi-year recovery that followed.
 ![Airline Industry Performance Dashboard](pictures/Airline_Industry_Performance_Dashboard.png)
 
 
